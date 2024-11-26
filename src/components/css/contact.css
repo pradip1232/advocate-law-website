@@ -1,0 +1,53 @@
+.contact-content {
+    max-width: 800px;
+    width: 800px;
+}
+
+.contact-content h1 {
+    font-family: Biryani;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 44px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+
+.contact-cards {
+    border: 0.5px solid rgba(0, 0, 0, 1);
+    border-radius: 0 !important;
+
+}
+
+
+.adrees-contact-cards{
+    padding: 3rem 0;
+}
+
+
+
+
+
+
+
+
+
+
+.online-container-contact h2 {
+    font-family: Biryani;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 44px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+.submit-btn-contact {
+    background-color: rgba(58, 25, 7, 1);
+    color: white;
+    border-radius: 0 !important;
+}

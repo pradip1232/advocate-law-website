@@ -1,0 +1,86 @@
+.expertise-section {
+    /* background: #200F0099; */
+
+}
+
+
+
+.text-content h2 {
+    /* font-size: 2rem; */
+}
+
+.image-container {
+    position: relative;
+}
+
+.image-overlay {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-image {
+    width: 100%;
+    /* opacity: 0.5; */
+    /* Background image transparency */
+}
+
+.overlay-images {
+    position: absolute;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+
+.overlay-image {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border: 2px solid white;
+}
+
+
+
+
+
+
+.text-content h2 {
+    /* font-size: 2rem; */
+    /* margin-bottom: 20px; */
+}
+
+.image-container {
+    position: relative;
+}
+
+.image-overlay {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-image {
+    width: 100%;
+    /* opacity: 0.5; */
+    /* Background image transparency */
+}
+
+.overlay-images {
+    position: absolute;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    top: 20%;
+    /* Adjust this for vertical positioning */
+    left: 15%;
+    /* Adjust this for horizontal positioning */
+}
+
+.overlay-image {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border: 2px solid white;
+}
